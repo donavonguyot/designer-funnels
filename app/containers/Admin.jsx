@@ -82,7 +82,7 @@ export default class Admin extends Component {
     return (
       <div className="wrap">
         <form>
-          <h1>WP Reactivate Settings</h1>
+          <h1>Designer Funnels Settings</h1>
           
           <label>
           Example Setting:
