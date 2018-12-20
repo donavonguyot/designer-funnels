@@ -6,8 +6,8 @@
  * @package   WP-Reactivate
  * @author    Pangolin
  * @license   GPL-3.0
- * @link      https://gopangolin.com
- * @copyright 2017 Pangolin (Pty) Ltd
+ * @link      https://designercommerce.com
+ * @copyright 2018 Designer Commerce - Based on Boilerplate from Pangolin (Pty) Ltd
  */
 
 namespace Pangolin\WPR;
